@@ -1,4 +1,4 @@
-# Text-Classification via RL Pytorch
+# Sentence Pair Modeling using Cross Attentive Transformer
 ## Description
 This repository contains the Pytorch implmentation of Canadian AI 2019 Paper "Efficient Transformer-Based Sentence Encoding for Sentence Pair Modelling".
 
@@ -13,9 +13,7 @@ Once you clone this repo, run the main.py file to process the dataset and to tra
 $ python main.py
 ```
 
-## References
-  * Learning Structured Representation for Text Classification via Reinforcement Learning : [Paper][1]
 
 
-[1]:https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/zhang.pdf
+
 
