@@ -2,6 +2,7 @@
 ## Description
 This repository contains the Pytorch implmentation of Canadian AI 2019 Paper "Efficient Transformer-Based Sentence Encoding for Sentence Pair Modelling".
 
+![alt tag](https://user-images.githubusercontent.com/2604334/56942828-b7336100-6aea-11e9-86f8-72616375eded.png) 
 
 ## Requirements
   * Python>=3.6.6
